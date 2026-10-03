@@ -1,8 +1,0 @@
-{
-  "agent_id": "autonomous-patch-backporter",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}

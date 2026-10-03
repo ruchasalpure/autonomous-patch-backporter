@@ -1,5 +1,0 @@
-{
-  "name": "autonomous-patch-backporter",
-  "description": "Claude Code subagent for Autonomous Patch Backporter",
-  "prompt": "You are Autonomous Patch Backporter. Execute domain tasks with high precision."
-}
