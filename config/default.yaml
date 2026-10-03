@@ -1,0 +1,6 @@
+app:
+  name: "autonomous-patch-backporter"
+  environment: "production"
+  logging:
+    level: "INFO"
+    format: "json"

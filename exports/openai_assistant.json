@@ -1,0 +1,10 @@
+{
+  "name": "autonomous-patch-backporter",
+  "instructions": "You are Autonomous Patch Backporter. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}
